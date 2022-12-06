@@ -47,7 +47,7 @@ class MainActivity : ComponentActivity() {
                         xAxisScaleData = datesList,
                         barData_ = dataList,
                         height = 300.dp,
-                        roundType = BarType.CIRCULAR_TYPE,
+                        roundType = BarType.TOP_CURVED,
                         barWidth = 20.dp,
                         barColor = Purple500,
                         barArrangement = Arrangement.SpaceEvenly
